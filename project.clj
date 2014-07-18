@@ -1,5 +1,9 @@
 (defproject cljs-storage "0.1.0-SNAPSHOT"
 
+  :description "HTML5 webstorage for clojurescript"
+
+  :url "https://github.com/netpyoung/cljs-storage"
+
   :dependencies
   [[org.clojure/clojure "1.6.0"]
    [org.clojure/clojurescript "0.0-2268"]]
