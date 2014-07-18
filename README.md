@@ -1,6 +1,7 @@
 # WebStorage for cljs
 
 * HTML5 webstorage for clojurescript
+* [![Clojars Project](http://clojars.org/cljs-storage/latest-version.svg)](http://clojars.org/cljs-storage)
 
 
 ## Feature
